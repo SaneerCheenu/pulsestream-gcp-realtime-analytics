@@ -25,8 +25,8 @@
         <beam.version>2.54.0</beam.version>
         <junit.version>4.13.2</junit.version>
         <maven.compiler.release>8</maven.compiler.release>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <maven-compiler-plugin.version>3.12.1</maven-compiler-plugin.version>
         <maven-exec-plugin.version>3.2.0</maven-exec-plugin.version>
         <maven-jar-plugin.version>3.3.0</maven-jar-plugin.version>
